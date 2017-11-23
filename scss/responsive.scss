@@ -1,0 +1,37 @@
+/*write some responsive code here */
+@media (min-width: 1200px) {
+  
+}
+/* Portrait tablets and medium desktops */
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+}
+/* Portrait tablets and small desktops */
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+/* Landscape phones and portrait tablets */
+@media (max-width: 767px) {
+  	.atom-header {
+  		top: 20px;
+  	}
+  	.main-wrapper {
+  		padding: 30px 0;
+  	}
+  	.page-section {
+  		padding-top: 30px;
+  		max-height: 270px;
+  	}
+  	.atom-footer {
+  		bottom: 10px;
+  	}
+}
+/* Landscape phones and smaller */
+@media (max-width: 480px) {
+
+}
+/* portrait phones */
+@media (min-width: 320px) and (max-height: 420px) {
+
+}
+

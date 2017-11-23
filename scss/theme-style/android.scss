@@ -1,0 +1,8 @@
+@mixin border-radius ($radius: 5px) {
+	border-radius: $radius;
+}
+
+input,
+button {
+	@include border-radius;
+}

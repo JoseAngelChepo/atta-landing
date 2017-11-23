@@ -1,0 +1,21 @@
+$theme-color: #18BCF9;
+.atom-solid-opacity {
+	background-color: rgba($theme-color, 0.4);
+}
+.social-footer a:hover,
+.theme-color, {
+	color: $theme-color;
+}
+
+.nicescroll-cursors,
+.atom-btn-default:hover,
+.atom-btn-default:focus {
+	background-color: $theme-color !important;
+}
+
+.nicescroll-cursors,
+.atom-btn-default:hover,
+.social-footer a:hover,
+input:focus {
+	border-color: $theme-color !important;
+}
