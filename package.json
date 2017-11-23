@@ -1,0 +1,22 @@
+{
+  "name": "atta-landing",
+  "version": "1.0.0",
+  "description": "pre page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseAngelChepo/atta-landing"
+  },
+  "author": "robowit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseAngelChepo/atta-landing/issues"
+  },
+  "homepage": "https://github.com/JoseAngelChepo/atta-landing#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
